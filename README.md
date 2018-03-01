@@ -1,0 +1,2 @@
+# The-Odin-Project-Calculator-
+Calculator Project by Ernest Drayton (33Coder) for the Odin Project This is a project from The Odin Project Online web calculator made to showcase HTML, CSS, and JavaScript This project builds a calculator using coding lang HTML/CSS/JS with: Interface with Buttons/Display ✓ Divison by Zero ✓ Clear Button ✓ Decimals ✓ Adding ✓ Subtracting ✓ Multiplying ✓ Dividing ✓ Consecutive Operations ✓ Error Handle pressing = early ✓ Error Handle 5.5.5 ✓ Rounding ✓ Keyboard Support, including Backspace ✓ No Screen Overflow 
